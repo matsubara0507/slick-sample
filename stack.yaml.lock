@@ -5,15 +5,15 @@
 
 packages:
 - completed:
-    hackage: slick-1.0.1.1@sha256:bd27d2237126f8883b14c4a1e6c19b6640ed8dae5ba18e9eb8877c1ee23d5c1e,1307
+    hackage: slick-1.1.1.0@sha256:0761e914b6d61c4ea6409d1996b517a23f6fb9f60f3feadf77dcbff4fedb0390,1312
     pantry-tree:
       size: 601
-      sha256: dbea944bf224db953522e5c95142920aad976610e1d7434b7e71963670329ec3
+      sha256: 0c1ab19cbb61bbda23df562dd2ae8ebf44f8eca73d38ca2a6e6dfbe307c256e8
   original:
-    hackage: slick-1.0.1.1
+    hackage: slick-1.1.1.0
 snapshots:
 - completed:
-    size: 524164
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/14/22.yaml
-    sha256: 7ad8f33179b32d204165a3a662c6269464a47a7e65a30abc38d01b5a38ec42c0
-  original: lts-14.22
+    size: 567669
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/17/12.yaml
+    sha256: facf6cac73b22a83ca955b580a98a7a09ed71f8f974c7a55d28e608c23e689a9
+  original: lts-17.12
